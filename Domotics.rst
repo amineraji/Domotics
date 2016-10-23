@@ -19,6 +19,7 @@ Main benefits:
 
 References & stadards
 ---------------------
+- Communication:
  * `Z-wave` home control system: connects home electronics (appliances, lightning,
    climate control, security systems ...). Z-wave is a protocol for
    communication among devices used for home automation. It uses RF for
@@ -61,4 +62,22 @@ Smarthome system includes:
 
 Possible shopping list:
 -----------------------
+- Controller :
+- Getway:
+- Sensors:
+  * Cameras
+  * Motion detection cams
+  * Contact sensors
+  * Smoke sensors
+  * temp/humidity/pressure sensors
+  * Rain sensors
+- Actuators:
+  * Find existing devices
+
+
+Next step
+=========
+- List of components: part number, link, price...
+Next step
+- Website
 
