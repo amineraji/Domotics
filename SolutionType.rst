@@ -9,6 +9,7 @@ Services inclus
 - Commande porte garage
 - Arrosage automatique
 - Système audio intégré (whole-house audio)
+- Sérrures éléctronique
 
 - Sécurité:
   * Détection intrusion
@@ -16,6 +17,7 @@ Services inclus
   * Détection de fuite
   * Détection d'incendie
   * Détection de monoxyde de carbone
+  * Détection gaz
 
 - Bien être:
   * Température
@@ -36,6 +38,9 @@ Produits
 - Phillips Hue
 - 
 
+* Orbivo
+
+* CertMe
 
 Installation
 ------------
