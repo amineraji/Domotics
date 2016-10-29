@@ -52,7 +52,6 @@ Operating system / controller / system of systems
  * OpenHAB
  * Domoticz
  * OpenDomotic
- * 
 
 System componement model:
 -------------------------
@@ -78,6 +77,6 @@ Possible shopping list:
 Next step
 =========
 - List of components: part number, link, price...
-Next step
 - Website
+
 
